@@ -8,7 +8,7 @@
 
 # Data set desctiption
 
-This classic dataset contains the prices and other attributes of almost 54,000 diamonds. It's a great dataset for beginners learning to work with data analysis and visualization. Dataset is available at [kaggle.com] (https://www.kaggle.com/shivam2503/diamonds)
+This classic dataset contains the prices and other attributes of almost 54,000 diamonds. It's a great dataset for beginners learning to work with data analysis and visualization. Dataset is available at [kaggle.com](https://www.kaggle.com/shivam2503/diamonds)
 
 Features:
 - price: price in US dollars (\$326--\$18,823)
