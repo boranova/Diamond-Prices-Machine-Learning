@@ -3,8 +3,7 @@
 
 # Diamond-Prices-Machine-Learning
 
-
-## Approach 
+![Diamonds!](Images/diamonds.jpeg)
 
 # Data set desctiption
 
