@@ -33,5 +33,28 @@ Features:
 # Data transformation
 
 1. OneHot Encoding using pandas.get_dummies for categorical features
+2. StandardScaler from sklearn
+
+# Linear Models from sklearn
+
+1.LinearRegression
+2.LogisticRegression
+3.Lasso
+4.Ridge
+5.LassoLars
+6.BayesianRidge
+7.ElasticNet
+
+
+# Decision Tree models
+
+
+# Support Vector Machines
+
+
+# Deep Learning Model with TensorFlow
+
+
+
 
 
