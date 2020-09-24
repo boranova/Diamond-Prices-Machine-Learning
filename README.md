@@ -5,7 +5,7 @@
 
 ![Diamonds!](Images/diamonds.jpeg)
 
-# Data set desctiption
+# Data set description
 
 This classic dataset contains the prices and other attributes of almost 54,000 diamonds. It's a great dataset for beginners learning to work with data analysis and visualization. Dataset is available at [kaggle.com](https://www.kaggle.com/shivam2503/diamonds)
 
