@@ -3,10 +3,9 @@
 
 # Diamond-Prices-Machine-Learning
 
+![Diamonds!](Images/diamonds.jpeg)
 
-## Approach 
-
-# Data set desctiption
+# Data set description
 
 This classic dataset contains the prices and other attributes of almost 54,000 diamonds. It's a great dataset for beginners learning to work with data analysis and visualization. Dataset is available at [kaggle.com](https://www.kaggle.com/shivam2503/diamonds)
 
@@ -37,19 +36,28 @@ Features:
 
 # Linear Models from sklearn
 
-1.LinearRegression
-2.LogisticRegression
-3.Lasso
-4.Ridge
-5.LassoLars
-6.BayesianRidge
-7.ElasticNet
+1. LinearRegression
+2. LogisticRegression
+3. Lasso
+4. Ridge
+5. LassoLars
+6. BayesianRidge
+7. ElasticNet
 
 
 # Decision Tree models
 
 
 # Support Vector Machines
+
+
+# Mertics used to evaluate the models from sklearn
+
+1. max_error
+2. median_absolute_error
+3. mean_squared_error
+4. r2_score
+5. explained_variance_score
 
 
 # Deep Learning Model with TensorFlow
