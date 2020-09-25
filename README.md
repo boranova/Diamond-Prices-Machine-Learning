@@ -45,8 +45,11 @@ Features:
 7. ElasticNet
 
 
-# Decision Tree models
+# Decision Tree models from sklearn
 
+1. DesicionTreeClassifier
+2. RandomForrestClassifier
+3. GradientboostingClassifier
 
 # Support Vector Machines
 
@@ -58,7 +61,9 @@ Features:
 3. mean_squared_error
 4. r2_score
 5. explained_variance_score
-
+6. confusion_metrics
+7. accuracy_score
+8. classification_report
 
 # Deep Learning Model with TensorFlow
 
