@@ -37,12 +37,11 @@ Features:
 # Linear Models from sklearn
 
 1. LinearRegression
-2. LogisticRegression
-3. Lasso
-4. Ridge
-5. LassoLars
-6. BayesianRidge
-7. ElasticNet
+2. Lasso
+3. Ridge
+4. LassoLars
+5. BayesianRidge
+6. ElasticNet
 
 
 # Decision Tree models from sklearn
@@ -50,9 +49,13 @@ Features:
 1. DesicionTreeClassifier
 2. RandomForrestClassifier
 3. GradientboostingClassifier
+4. DesicionTreeRegressor
+5. GradientBoostingRegressor
+6. RandomForestRegressor
+7. VotingRegressor
 
 # Support Vector Machines
-
+1. SVR
 
 # Mertics used to evaluate the models from sklearn
 
@@ -67,7 +70,7 @@ Features:
 
 # Deep Learning Model with TensorFlow
 
-
+TensorFlow Sequential model
 
 
 
